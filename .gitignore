@@ -1,0 +1,10 @@
+/node_modules
+/package-lock.json
+/.vscode
+/.env
+/ml-backend/__pycache__
+/ml-backend/views/__pycache__/
+/ml-backend/pyenv
+/build
+
+/tmp
